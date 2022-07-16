@@ -13,6 +13,7 @@
 <title>Catalogo</title>
 </head>
 <body>
+	
 	<!-- Navbar -->
     <%@ include file="/WEB-INF/views/navbar.jsp" %>
     
