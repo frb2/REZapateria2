@@ -24,7 +24,7 @@
             
             
         </div>
-        
+       
         <form class="formulario" style="padding: 50px;background-color: #ebeaea;">
         	<a href="Home.jsp"><img src="https://i.imgur.com/NDM3Eub.png" alt=""></a>
             <div class="texto-formulario" style="color: rgb(0, 0, 0);">
