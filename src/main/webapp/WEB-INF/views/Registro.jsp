@@ -35,6 +35,7 @@
             <div class="input">
                 <input placeholder="Correo electrónico" type="password" name="email" style="margin-bottom: 0.5em;">
             </div>
+            
             <div class="input">
                 <input placeholder="Contraseña" type="password" name="password" style="margin-bottom: 0.5em;">
             </div>
@@ -42,6 +43,7 @@
                 <input placeholder="Repetir contraseña" type="password" name="confpassword" style="margin-bottom: 0.5em;">
             </div>
 
+            
             <div class="input">
                 <input style="color: rgb(255, 250, 250); font-size:medium; margin-top: 4em;" type="submit" value="Registro">
             </div>
