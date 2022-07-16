@@ -9,7 +9,7 @@
 							CALZADOS TRUJILLO
 						</h6>
 						<p>
-						 Puedes seguirnos en nuestro Facebook para mantenerte actualizado con los nuevos diseños de 
+						 Puedes seguirnos en nuestro Facebook para mantenerte actualizado con los nuevos diseï¿½os de 
                          calzado.
 						</p>
 					</div>
@@ -42,9 +42,9 @@
 						<h6 class="text-uppercase fw-bold mb-4">
 							Contact
 						</h6>
-						<p><i class="fas fa-home me-3"></i> UPAO</p>
+						<p><em class="fas fa-home me-3"></em> UPAO</p>
 						<p>
-							<i class="fas fa-envelope me-3"></i>
+							<em class="fas fa-envelope me-3"></em>
 							SITUPAO@example.com
 						</p>
 						
@@ -53,7 +53,7 @@
 			</div>
 		</section>
 		<div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-			© 2022 Copyright
+			ï¿½ 2022 Copyright
 			
 		</div>
 		</footer>

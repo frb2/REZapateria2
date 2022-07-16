@@ -3,7 +3,7 @@
 <%@ include file="/WEB-INF/views/incluido.jsp" %>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,9 +45,7 @@
                 <p class="card-text"><c:out value="${prod.descripcion}"/></p>
                 <p style="color: green; text-align: end;"><c:out value="${prod.precio}"/></p>
 
-                <center>
                   <a  id="${prod.id}" href="idproducto.htm" class="btn btn-primary">Ver producto</a>
-                </center>
               </div>
             </div>
           </div>

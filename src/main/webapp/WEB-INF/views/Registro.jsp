@@ -21,7 +21,7 @@
         
         
         <form class="formulario">
-        	<a href="Home.jsp"><img src="img/LOGO.png"></a>
+        	<a href="Home.jsp"><img src="img/LOGO.png" alt=""></a>
             <div class="texto-formulario">
                 <h2>Registrarse</h2>
                 

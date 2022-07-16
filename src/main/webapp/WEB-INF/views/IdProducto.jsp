@@ -3,7 +3,7 @@
 <%@ include file="/WEB-INF/views/incluido.jsp" %>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
 				
 					<div class="col-sm-7">
 							<div class="card-body">
-									<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/zign-zapatos-color-claro-cordones-1632741860.jpeg?crop=1.00xw:0.463xh;0,0.383xh" style="height: 500px; width: 600px;" >
+									<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/zign-zapatos-color-claro-cordones-1632741860.jpeg?crop=1.00xw:0.463xh;0,0.383xh" style="height: 500px; width: 600px;" alt="">
 							</div>
 					</div>
 					<!-- caracteristicas -->
