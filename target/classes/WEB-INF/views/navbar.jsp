@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="login.htm">Login</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="catalogo.htm">Catálogo de productos</a>
+          <a class="nav-link" href="producto.htm">Catálogo</a>
         </li>
         <li class="nav-item">
           <a class="nav-link ">Ubicanos</a>

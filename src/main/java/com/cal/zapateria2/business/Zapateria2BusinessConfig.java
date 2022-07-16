@@ -24,7 +24,7 @@ import com.cal.zapateria2.business.entities.Producto;
 @Configuration
 @ComponentScan
 @PropertySource("classpath:application.properties")
-@EnableJpaRepositories(basePackages="com.cal.zapateria2.bussiness.repositories")
+@EnableJpaRepositories(basePackages="com.cal.zapateria2.business.repositories")
 @ComponentScan(basePackages = "com.cal.zapateria2.services")
 public class Zapateria2BusinessConfig {
 	

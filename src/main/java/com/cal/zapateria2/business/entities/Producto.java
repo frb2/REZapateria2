@@ -29,5 +29,8 @@ public class Producto {
 	
 	@Column(name="categoria")
 	private String categoria;
+	
+	@Column(name = "precio")
+	private Double precio;
 
 }

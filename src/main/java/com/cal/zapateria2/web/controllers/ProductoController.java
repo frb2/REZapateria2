@@ -25,15 +25,15 @@ public class ProductoController {
 	public ModelAndView manejadorVistaProducto() {
 		
 		//enviar los datos de los productos hacia la vista
-		Map<String, Object> productoModel=new HashMap<String, Object>(null);
+		Map<String, Object> productoModel=new HashMap<String, Object>();
 		
 		productoModel.put("productos", this.productoService.ListarProductosActivos());
 		logger.info("Resolviendo la lista de productos.");
 		logger.info(productoModel);
 		
 		//devolver a la vista
-		//return new ModelAndView("lstproductos","model",productoModel);
-		return new ModelAndView("lstproductos");
+		return new ModelAndView("lstproductos","model",productoModel);
+		//return new ModelAndView("lstproductos");
 	}
 
 }

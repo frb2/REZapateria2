@@ -26,7 +26,7 @@
         </div>
         
         <form class="formulario" style="padding: 50px;background-color: #ebeaea;">
-        	<a href="Home.jsp"><img src="imagen.htm"></a>
+        	<a href="Home.jsp"><img src="https://i.imgur.com/NDM3Eub.png"></a>
             <div class="texto-formulario" style="color: rgb(0, 0, 0);">
                 <h2 style="font-size: 25px;text-align: center;margin-top: 30px;margin-bottom: 40px;color: rgb(0, 0, 0);">Iniciar sesión</h2>
                 
